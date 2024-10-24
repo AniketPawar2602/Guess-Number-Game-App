@@ -7,7 +7,7 @@ This is a simple number-guessing game built using HTML, CSS, and JavaScript. The
 - Random number generation within a specified range.
 - Real-time feedback on the player's guesses.
 - Keeps track of the number of attempts.
-- Option to reset the game and play again.
+- Disabling the check button after guessing the right number.
 - Responsive design that works on various devices.
 
 ## Demo
